@@ -32,8 +32,8 @@ def hi(name, gender):
   return(f'Hi {xung_ho} {name}!') 
 
 hi(name='Dad', gender='m')
-hi(name='Mom'. gender='f')
-hi(name='AI-BTX', None)
-hi(None, None)
+hi(name='Mom', gender='f')
+hi(name='AI-BTX', gender=None)
+hi(name=None, gender=None)
   
 #endregion bailam
